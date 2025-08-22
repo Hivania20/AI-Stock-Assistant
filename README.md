@@ -1,4 +1,3 @@
-# AI-Stock-Assistant
 # 📈 AI Stock Assistant
 
 Aplikasi sederhana untuk melihat harga saham real-time menggunakan Streamlit + Yahoo Finance.
