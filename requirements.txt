@@ -3,3 +3,6 @@ yfinance
 pandas
 matplotlib
 scikit-learn
+alpha_vantage
+finnhub-python
+
